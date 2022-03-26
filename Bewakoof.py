@@ -70,7 +70,7 @@ def check(mail,pw,Proxies=True,saver=True):
 			"sec-fetch-dest":"empty",
 			"referer":"https://www.bewakoof.com/login/email",
 			"accept-language":"en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7"},proxies = Proxy()).text
-	except:
+	except Exception as e:
 		check(mail,pw,Proxies=Proxies,saver=saver)
 	if r.__contains__("Incorrect login details. Please try again."):
 		invalid += 1
