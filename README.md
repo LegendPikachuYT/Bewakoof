@@ -54,7 +54,7 @@ Example -
 `print(Bewakoof.hits)`
 
 To Use Your Proxy use -
-'Bewakoof.Proxylist = yourproxylist` 
+`Bewakoof.Proxylist = yourproxylist` 
 
 # Note
 
