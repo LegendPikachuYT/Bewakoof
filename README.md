@@ -55,7 +55,9 @@ Example -
 
 To Use Your Proxy use -
 `Bewakoof.Proxylist = yourproxylist` 
+
 Add Your Proxy Protocol -
+
 `Bewakoof.protocol = "proxy_protocol"`
 
 # Note
