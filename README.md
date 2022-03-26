@@ -30,7 +30,7 @@ First Install This Module In Your Python IDE.
 
 Now Install All The Requirements Using
 
-`pip -m install -r requirements.txt`
+`python -m pip install -r requirements.txt`
 
 # How To Use
 
