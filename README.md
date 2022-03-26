@@ -26,7 +26,7 @@ Shop from a wide range of T-shirts, Mobile Covers, Accessories and more at the b
 
 First Install This Module In Your Python IDE.
 
-`pip install Bewakoof`
+`git clone https://github.com/LegendPikachuYT/Bewakoof`
 
 Now Install All The Requirements Using
 
