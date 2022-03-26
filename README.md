@@ -6,10 +6,15 @@ This Project  Is Open Source Feel Free To Fork.
 # Speciality
 
 Shows 100% accurate Results
-You Can Use Your Own Proxies
+
+You Can Use Your Own Proxies.
+
 Capture  - Yes
+
 ComboList - Mail:Pass
+
 AutoSave - Yes
+
 LightWeight - Yes
 
 # Bewakoof
