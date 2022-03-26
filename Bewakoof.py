@@ -2,6 +2,7 @@ import requests,json,termcolor,colorama,random
 colorama.init()
 invalid,ban,custom,hits =0,0,0,0
 Proxylist = []
+protocol = ""
 def Proxy():
 	RandomProxy = random.choice(Proxylist)
 	RandomProxy = RandomProxy.replace('\n','')
